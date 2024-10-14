@@ -20,3 +20,5 @@ I use this python script to break 1 book pdf file into multiple chapter pdf file
 4. Type `python "split pdf by bookmarks.py" "targetPDF.pdf"`
 
 A folder called "output" was created on your desktop. A folder called "targetPDF" was created inside the "output" folder. The splited pdf files "targetPDF_bookmark name" should be inside. 
+### Edit resume.docx by inputing variables (Python)
+In an original resume template.docx, I put in a few text replacement holders, such as {job position}, {company name}, {company location}, {company mission}. This script asks input for each text replacement holder, then fill-in the blanks. [resume template editor.py](https://github.com/Xianzhi-Li/Tools/blob/main/resume%20template%20editor.py) 
