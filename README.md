@@ -18,4 +18,5 @@ I use this python script to break 1 book pdf file into multiple chapter pdf file
 </p>
 
 4. Type `python "split pdf by bookmarks.py" "targetPDF.pdf"`
+
 A folder called "output" was created on your desktop. A folder called "targetPDF" was created inside the "output" folder. The splited pdf files "targetPDF_bookmark name" should be inside. 
