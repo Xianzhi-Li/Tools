@@ -14,7 +14,7 @@ I use this python script to break 1 book pdf file into multiple chapter pdf file
 3. In Command Prompt, navigate to desktop folder by typing `cd Desktop`.
 
 <p align="center">
-  <img src="https://github.com/Xianzhi-Li/Tools/blob/main/cd_desktop.jpg?raw=true">
+  <img src="https://github.com/Xianzhi-Li/Tools/blob/main/pic/cd_desktop.jpg?raw=true">
 </p>
 
 4. Type `python "split pdf by bookmarks.py" "targetPDF.pdf"`
